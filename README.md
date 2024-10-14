@@ -6,7 +6,7 @@ This file is a csv file; therefore, each column is separated with comma. This fi
 ![image](https://github.com/user-attachments/assets/45e5f8b9-ec13-47d3-85a5-12d8988eefda)
 
 
-## aol1 - Describe
+## 1) Describe
 This function explains the information from each column. When running this function, give a prompt to get input from the user as the name of the column you want to describe. Then, display: 
 
 a.	For column loc1, loc2, room, bathrooms, carparks, type, or furnish, display: 
@@ -30,7 +30,7 @@ iii.	Average value
 
 Because area and price value are not discrete, therefore there isn’t a need to perform frequency check for each of it. 
 
-## aol2 - Search Data
+## 2) Search Data
 To be able to handle search function, ask user to give input with format: 
 
 _DataX in ColumnName_
