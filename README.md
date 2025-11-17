@@ -1,5 +1,5 @@
 # Housing-Data-in-Malaysia
-You are required to write a program that can read a file and perform several functions. The file needed can be downloaded from given csv: 
+I am required to write a program that can read a file and perform several functions. The file needed can be downloaded from given csv: 
 
 File description: 
 This file is a csv file; therefore, each column is separated with comma. This file consists of 3939 rows of Housing Data in Malaysia with no missing value for each row.  This file also has a header. Therefore, when your program loads the data, your program should be able to skip this header before passing the data into your record variable. A glimpse of the data: 
@@ -35,7 +35,7 @@ To be able to handle search function, ask user to give input with format:
 
 _DataX in ColumnName_
 
-Your program should be able to parse above input. It is prohibited to use 3 string input. Then, display all data that has that DataX. 
+The program should be able to parse above input. It is prohibited to use 3 string input. Then, display all data that has that DataX. 
 
 For example: 
 
@@ -53,6 +53,6 @@ will result in:
  
 Give information if data searched doesn’t exist in the record. 
 
-YOU ONLY HAVE TO DO SEARCH IN THE COLUMN OTHER THAN AREA AND PRICE.
+I ONLY HAVE TO DO SEARCH IN THE COLUMN OTHER THAN AREA AND PRICE.
 .
 
